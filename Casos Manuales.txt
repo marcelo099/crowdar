@@ -1,0 +1,113 @@
+
+LOGIN:
+
+El usuario ingresa un username válido y el password inválido; no se le permite ingresar a la aplicación;
+
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce_"
+4. Clickear en el botón "Login"
+5. Verificar que el mensaje "Epic sadface: Username and password do not match any user in this service" aparezca en pantalla.
+
+
+
+El usuario ingresa un username válido y el password válido
+
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce"
+4. Clickear en el botón "Login"
+5. El usuario puede ver la lista de elementos para agregar al carrito de compras
+
+
+
+Verificación de incremento en el carrito
+
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce"
+4. Clickear en el botón "Login"
+5. El usuario puede ver la lista de elementos para agregar al carrito de compras
+6. desplegar el botón de filtros y seleccionar la opción "A-Z"
+7. La lista de productos se ordena de acuerdo a la selección aplicada
+8. Seleccionar el primer producto del listado y clickear en el botón "Add to cart"
+9. El ícono del carrito se incrementa a "1"
+
+
+
+Verificación de decremento en el carrito
+
+Pre-condición: no hay ningún artículo agregado al carrito
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce"
+4. Clickear en el botón "Login"
+5. El usuario puede ver la lista de elementos para agregar al carrito de compras
+6. desplegar el botón de filtros y seleccionar la opción "A-Z"
+7. La lista de productos se ordena de acuerdo a la selección aplicada
+8. Seleccionar el primer producto del listado y clickear en el botón "Add to cart"
+9. El ícono del carrito se incrementa a "1"
+10. Seleccionar el mismo artículo y clickear en el botón "Remove"
+11. El ícono del carrito se decrementa a "0"
+
+
+
+Control de mercadería del carrito
+
+Pre-condición: no hay ningún artículo agregado al carrito
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce"
+4. Clickear en el botón "Login"
+5. El usuario puede ver la lista de elementos para agregar al carrito de compras
+6. desplegar el botón de filtros y seleccionar la opción "A-Z"
+7. La lista de productos se ordena de acuerdo a la selección aplicada
+8. Seleccionar el primer producto del listado y clickear en el botón "Add to cart"
+9. El ícono del carrito se incrementa a "1"
+10. Clickear en el ícono del carrito
+11. La cantidad y la descripión del producto es la correcta
+
+
+
+Remover productos desde el carrito
+
+Pre-condición: no hay ningún artículo agregado al carrito
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce"
+4. Clickear en el botón "Login"
+5. El usuario puede ver la lista de elementos para agregar al carrito de compras
+6. desplegar el botón de filtros y seleccionar la opción "A-Z"
+7. La lista de productos se ordena de acuerdo a la selección aplicada
+8. Seleccionar el primer producto del listado y clickear en el botón "Add to cart"
+9. El ícono del carrito se incrementa a "1"
+10. Clickear en el ícono del carrito
+11. Seleccionar el botón "Remove"
+12. El listado de productos agregados es ahora "0"
+
+
+Checkout de Venta
+
+Pre-condición: no hay ningún artículo agregado al carrito
+1. Seleccione el navegador Chrome y en el mismo ingresar a la dirección "https://www.saucedemo.com/"
+2. Ingrese el usuario válido "standard_user"
+3. Ingrese el password válido "secret_sauce"
+4. Clickear en el botón "Login"
+5. El usuario puede ver la lista de elementos para agregar al carrito de compras
+6. desplegar el botón de filtros y seleccionar la opción "A-Z"
+7. La lista de productos se ordena de acuerdo a la selección aplicada
+8. Seleccionar el primer producto del listado y clickear en el botón "Add to cart"
+9. El ícono del carrito se incrementa a "1"
+10. Clickear en el ícono del carrito
+11. La cantidad y la descripión del producto es la correcta
+12. Seleccionar el botón "Checkout"
+13. En la pantalla "Checkout: Your Information" ingrese el Nombre, Apellido, ZIP y clickear en botón "Continue"
+14. En la pantalla "Checkout: Overview" están detallados correctamente el artículo seleccionado, el precio y valor final
+15. Seleccionar el botón "Finish"
+16. La pantalla "Checkout: Complete!" aparece
+
+
+
+
+
+
